@@ -21,9 +21,8 @@ Some interesting projects I worked on in the past are:
   
   
   - A 16-bit computer that implements a custom programming language and can do tasks such as compute the fibonacci sequence https://github.com/brieucpopper/logismcomputer
-![Screen Shot 2023-01-23 at 9 34 01 PM](https://user-images.githubusercontent.com/102361078/214144621-2f935a58-d666-4557-9c0a-9f0db2d365f1.png)
 
-<img src="[https://image-url.type](https://user-images.githubusercontent.com/102361078/214144621-2f935a58-d666-4557-9c0a-9f0db2d365f1.png)" width="500" height="500"/>
+<img src="[https://image-url.type](https://user-images.githubusercontent.com/102361078/214144621-2f935a58-d666-4557-9c0a-9f0db2d365f1.png)" width="500"/>
 
 ![Screen Shot 2023-01-23 at 9 33 21 PM](https://user-images.githubusercontent.com/102361078/214144627-a8cc2bd5-e94a-4bcf-8827-ac61a8167424.png =400x)
 
