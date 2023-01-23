@@ -1,36 +1,50 @@
-- 👋 Hi, I’m @brieucpopper
-- 👀 I’m interested in computer science, but also math and physics
-- 🌱 I’m currently a student in Télécom SudParis, a french "école d'ingénieur"
-- 📫 How to reach me : brieucpopper@gmail.com or https://www.linkedin.com/in/brieucpopper/
+
+<h1 align="left"><b>Hi , I'm Brieuc </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Student,;AI+enthusiast,;Active+Learner,;Love+to+learn+new+stuff,;Love to build small projects"></a>
+</p>
+<p><em>Computer Science student at <a href="https://www.telecom-sudparis.eu/">Telecom SudParis</a></br>
+</em></p>
 
 
-Some interesting projects I worked on in the past are:
-  - A 3D tetris with a 2d rendering coded manually in Python https://github.com/brieucpopper/3dtetris
+> How to reach me : brieucpopper@gmail.com or https://www.linkedin.com/in/brieucpopper/
 
-![tetris2](https://user-images.githubusercontent.com/102361078/214140255-57212023-0a0f-410e-9eb4-4814cc3bce76.png)
+-----------
 
-![tetris1](https://user-images.githubusercontent.com/102361078/214140336-47a42105-4592-4d2a-98ad-420d594fdf29.png)
+A little more about me...
 
+```
+skills=['computer science','math','physics']
+interests=['volleyball','music','video games']
+```
+<h3>Below is a list of some projects I enjoyed working on in the past:</h3>
 
-  - A multiplayer web game that is a 2v2 drawing competition (with sockets, some javascript and a flask python server) https://github.com/brieucpopper/drawhosted/tree/master/Projet%20Final
-
-![jeu-dessin](https://user-images.githubusercontent.com/102361078/214140378-f29a3ebf-3264-4204-9a20-d3d0d9ec073d.png)
-
-
-
-  
-  
-  - A 16-bit computer that implements a custom programming language and can do tasks such as compute the fibonacci sequence https://github.com/brieucpopper/logismcomputer
-
-<img src="[https://image-url.type](https://user-images.githubusercontent.com/102361078/214144621-2f935a58-d666-4557-9c0a-9f0db2d365f1.png)" width="500"/>
-
-![Screen Shot 2023-01-23 at 9 33 21 PM](https://user-images.githubusercontent.com/102361078/214144627-a8cc2bd5-e94a-4bcf-8827-ac61a8167424.png =400x)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 
-  -A way to encode drawings with fourier decompositions to determine whether it would be possible to encode a drawing by storing it's fourier coefficients https://github.com/brieucpopper/TIPE-fourier-bezier![Uploading Screen Shot 2023-01-23 at 9.34.01 PM.png…]()
 
-  
-  
-  ![fourier](https://user-images.githubusercontent.com/102361078/214140415-aa0524a5-a7a8-4960-b5b6-590e699cbf32.png)
+<br>
+<h1>A 3d tetris with manual 2d rendering</h1>
 
 
+
+
+<img src="https://user-images.githubusercontent.com/102361078/214140255-57212023-0a0f-410e-9eb4-4814cc3bce76.png"><br>https://github.com/brieucpopper/3dtetris<br>
+
+
+<br>
+<h1>A 2v2 drawing competition web game</h1>
+
+
+
+
+<img src="https://user-images.githubusercontent.com/102361078/214140378-f29a3ebf-3264-4204-9a20-d3d0d9ec073d.png"><br>https://github.com/brieucpopper/drawhosted/tree/master/Projet%20Final<br>
+
+
+<br>
+<h1>A custom 16-bit computer made from logic gates</h1>
+
+
+
+
+<img src="https://user-images.githubusercontent.com/102361078/214144627-a8cc2bd5-e94a-4bcf-8827-ac61a8167424.png"><br>https://github.com/brieucpopper/logismcomputer<br>
