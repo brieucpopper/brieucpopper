@@ -23,7 +23,7 @@ Some interesting projects I worked on in the past are:
   - A 16-bit computer that implements a custom programming language and can do tasks such as compute the fibonacci sequence https://github.com/brieucpopper/logismcomputer
 ![Screen Shot 2023-01-23 at 9 34 01 PM](https://user-images.githubusercontent.com/102361078/214144621-2f935a58-d666-4557-9c0a-9f0db2d365f1.png)
 
-![Screen Shot 2023-01-23 at 9 33 21 PM](https://user-images.githubusercontent.com/102361078/214144627-a8cc2bd5-e94a-4bcf-8827-ac61a8167424.png)=250x
+![Screen Shot 2023-01-23 at 9 33 21 PM](https://user-images.githubusercontent.com/102361078/214144627-a8cc2bd5-e94a-4bcf-8827-ac61a8167424.png =400x)
 
 
   -A way to encode drawings with fourier decompositions to determine whether it would be possible to encode a drawing by storing it's fourier coefficients https://github.com/brieucpopper/TIPE-fourier-bezier![Uploading Screen Shot 2023-01-23 at 9.34.01 PM.png…]()
