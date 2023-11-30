@@ -12,6 +12,17 @@
 
 <h3>Below is a list of some projects I enjoyed working on in the past, feel free to click on the images to learn more !</h3>
 
+<br>
+<h1>[Machine Learning course @ GT] : Solving Blackjack and a video game with Reinforcement Learning</h1>
+
+<a href=https://github.com/brieucpopper/MDPRL><img src="https://github.com/brieucpopper/MDPRL/assets/102361078/b9365e9f-4d74-4dec-a617-fe8c65557399"></a>
+
+
+
+<br>
+<h1>[Machine Learning course @ GT] : Supervised&Unsupervised Learning on a dataset of songs and Music genres</h1>
+
+<a href=https://github.com/brieucpopper/MLanalysis><img src="https://github.com/brieucpopper/MLanalysis/assets/102361078/2b0973c8-99ba-41f3-8aaf-5f4ea6aa7bcc"></a>
 
 
 
