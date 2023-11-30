@@ -27,7 +27,7 @@
 https://github.com/brieucpopper/lungSegmentationUnet/blob/main/IMAGE_37.png
 
 <br>
-<h1>[Team project on CNNs @ TSP] : Lung segmentation with a U-NET</h1>
+<h1>[Team project on CNNs @ TSP] : Lung segmentation with a U-NET (deep convolutional neural network)</h1>
 
 <a href=https://github.com/brieucpopper/lungSegmentationUnet/tree/main#readme><img src="https://github.com/brieucpopper/lungSegmentationUnet/blob/main/IMAGE_37.png"></a>
 
