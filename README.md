@@ -19,18 +19,18 @@
 
 
 
-<br>
-<h1>[Machine Learning course @ GT] : Supervised&Unsupervised Learning on a dataset of songs and Music genres</h1>
-
-<a href=https://github.com/brieucpopper/MLanalysis><img src="https://github.com/brieucpopper/MLanalysis/assets/102361078/2b0973c8-99ba-41f3-8aaf-5f4ea6aa7bcc"></a>
-
-https://github.com/brieucpopper/lungSegmentationUnet/blob/main/IMAGE_37.png
 
 <br>
 <h1>[Team project on CNNs @ TSP] : Lung segmentation with a U-NET (deep convolutional neural network)</h1>
 
 <a href=https://github.com/brieucpopper/lungSegmentationUnet/tree/main#readme><img src="https://github.com/brieucpopper/lungSegmentationUnet/blob/main/IMAGE_37.png"></a>
 
+<br>
+<h1>[Machine Learning course @ GT] : Supervised&Unsupervised Learning on a dataset of songs and Music genres</h1>
+
+<a href=https://github.com/brieucpopper/MLanalysis><img src="https://github.com/brieucpopper/MLanalysis/assets/102361078/2b0973c8-99ba-41f3-8aaf-5f4ea6aa7bcc"></a>
+
+https://github.com/brieucpopper/lungSegmentationUnet/blob/main/IMAGE_37.png
 
 
 
