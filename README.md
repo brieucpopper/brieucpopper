@@ -30,7 +30,6 @@
 
 <a href=https://github.com/brieucpopper/MLanalysis><img src="https://github.com/brieucpopper/MLanalysis/assets/102361078/2b0973c8-99ba-41f3-8aaf-5f4ea6aa7bcc"></a>
 
-https://github.com/brieucpopper/lungSegmentationUnet/blob/main/IMAGE_37.png
 
 
 
