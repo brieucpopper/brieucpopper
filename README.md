@@ -43,7 +43,7 @@
 
 
 
-<a href=https://github.com/brieucpopper/3dtetris><img src="https://user-images.githubusercontent.com/102361078/214140255-57212023-0a0f-410e-9eb4-4814cc3bce76.png"></a>
+<a href=https://github.com/brieucpopper/3dtetris/tree/main#readme><img src="https://user-images.githubusercontent.com/102361078/214140255-57212023-0a0f-410e-9eb4-4814cc3bce76.png"></a>
 
 
 
