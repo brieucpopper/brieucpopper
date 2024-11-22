@@ -15,7 +15,7 @@
 <br>
 <h1>Creating a custom RAG pipeline for multimodal VQA on videos</h1>
 
-<a href=https://github.com/brieucpopper/LLaVA_RAG_PoC/><img src="https://github.com/user-attachments/assets/fcdaf87e-f08d-413b-9f22-4c491f3222da"></a>
+<a href=https://github.com/brieucpopper/LLaVA_RAG/tree/master#readme><img src="https://github.com/user-attachments/assets/fcdaf87e-f08d-413b-9f22-4c491f3222da"></a>
 
 
 
