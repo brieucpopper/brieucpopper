@@ -31,7 +31,7 @@
 <br>
 <h1>[Machine Learning course @ GT] : Supervised&Unsupervised Learning on a dataset of songs and Music genres</h1>
 
-<a href=https://github.com/brieucpopper/MLanalysis><img src="https://github.com/brieucpopper/MLanalysis/assets/102361078/2b0973c8-99ba-41f3-8aaf-5f4ea6aa7bcc"></a>
+<a href=https://github.com/brieucpopper/MLanalysis/tree/main#readme><img src="https://github.com/brieucpopper/MLanalysis/assets/102361078/2b0973c8-99ba-41f3-8aaf-5f4ea6aa7bcc"></a>
 
 
 
