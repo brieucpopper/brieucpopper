@@ -18,10 +18,7 @@
 <a href=https://github.com/brieucpopper/LLaVA_RAG_PoC/><img src="https://github.com/user-attachments/assets/fcdaf87e-f08d-413b-9f22-4c491f3222da"></a>
 
 
-<br>
-<h1>[Machine Learning course @ GT] : Solving Blackjack and a video game with Reinforcement Learning</h1>
 
-<a href=https://github.com/brieucpopper/MDPRL><img src="https://github.com/brieucpopper/MDPRL/assets/102361078/b9365e9f-4d74-4dec-a617-fe8c65557399"></a>
 
 
 
@@ -65,6 +62,10 @@
 
 <a href=https://github.com/brieucpopper/drawhosted/tree/master/Projet%20Final><img src="https://user-images.githubusercontent.com/102361078/214140378-f29a3ebf-3264-4204-9a20-d3d0d9ec073d.png"></a><br><br>
 
+<br>
+<h1>[Machine Learning course @ GT] : Solving Blackjack and a video game with Reinforcement Learning</h1>
+
+<a href=https://github.com/brieucpopper/MDPRL><img src="https://github.com/brieucpopper/MDPRL/assets/102361078/b9365e9f-4d74-4dec-a617-fe8c65557399"></a>
 
 
 <br>
