@@ -47,7 +47,7 @@
 
 <h1> A Reinforcement Learning project with multi-agent cooperation and competition (Hide and Seek) </h1>
 
-<a href=https://github.com/brieucpopper/2d_RL_hide_seek/main#readme><img src="https://github.com/user-attachments/assets/c851b4c2-91f5-405b-85b1-9766427dee11"></a>
+<a href=https://github.com/brieucpopper/2d_RL_hide_seek/tree/main#readme><img src="https://github.com/user-attachments/assets/c851b4c2-91f5-405b-85b1-9766427dee11"></a>
 <br>
 <h1>A custom 16-bit computer made from logic gates</h1>
 
