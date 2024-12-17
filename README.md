@@ -6,7 +6,7 @@
 
 ---
 
-<h3>Below is a list of some projects I enjoyed working on in the past. Feel free to click on the images to learn more!</h3>
+<h3>In addition to my Internship as a Computer Vision Engineer at ImVitro where I learned a ton, I have also learned a lot with personal or academic projects ! Feel free to click on the images to learn more!</h3>
 
 ---
 
