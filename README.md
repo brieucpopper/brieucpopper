@@ -1,13 +1,14 @@
 <h1 align="left"><b>Hello, I'm Brieuc</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<p><em>Recent Master's graduate specialized in Machine Learning, studied at <a href="https://www.gatech.edu/" target="_blank">Georgia Tech</a> (MS. Computer Science) and <a href="https://www.telecom-sudparis.eu/" target="_blank">Telecom SudParis (diplôme d'ingénieur) </a>.</em></p>
+<p><em>Recent Master's graduate specialized in Machine Learning, studied at <a href="https://www.gatech.edu/" target="_blank">Georgia Tech</a> (MS. Computer Science) and <a href="https://www.telecom-sudparis.eu/" target="_blank">Telecom SudParis</a> (diplôme d'ingénieur) </em></p>
 
 > **How to reach me:** brieucpopper@gmail.com or via <a href="https://www.linkedin.com/in/brieucpopper/" target="_blank">LinkedIn</a>
 
 
 ---
 
-<h3>In addition to my Internship as a Computer Vision Engineer at ImVitro where I learned a ton (cf. [My CV](https://github.com/user-attachments/files/18168287/CV_Brieuc_POPPER_2024.pdf)), I have also learned a lot with personal or academic projects ! Feel free to click on the images to learn more!</h3>
+<h3>In addition to my Internship as a Computer Vision Engineer at ImVitro where I learned a ton (cf. [My CV](https://github.com/user-attachments/files/18168287/CV_Brieuc_POPPER_2024.pdf) ), I have also learned a lot with personal or academic projects ! Feel free to click on the images to learn more!</h3>
+
 
 ---
 
