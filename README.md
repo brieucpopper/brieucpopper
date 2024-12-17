@@ -7,7 +7,8 @@
 
 ---
 
-<h3>In addition to my Internship as a Computer Vision Engineer at ImVitro where I learned a ton (cf. [My CV](https://github.com/user-attachments/files/18168287/CV_Brieuc_POPPER_2024.pdf) ), I have also learned a lot with personal or academic projects ! Feel free to click on the images to learn more!</h3>
+<h3>In addition to my Internship as a Computer Vision Engineer at ImVitro where I learned a ton (cf. <a href="https://github.com/user-attachments/files/18168287/CV_Brieuc_POPPER_2024.pdf">My CV</a>), I have also learned a lot with personal or academic projects! Feel free to click on the images to learn more!</h3>
+
 
 
 ---
