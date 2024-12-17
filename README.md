@@ -13,7 +13,7 @@
 <h3>Below is a list of some projects I enjoyed working on in the past, feel free to click on the images to learn more !</h3>
 
 <br>
-<h1>Creating a custom RAG pipeline for multimodal VQA on videos</h1>
+<h1>Creating a custom RAG pipeline for multimodal Question Answering on Videos</h1>
 
 <a href=https://github.com/brieucpopper/LLaVA_RAG/tree/master#readme><img src="https://github.com/user-attachments/assets/fcdaf87e-f08d-413b-9f22-4c491f3222da"></a>
 
