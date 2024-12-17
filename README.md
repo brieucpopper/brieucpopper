@@ -32,7 +32,7 @@
 
 ### [Fine-tuning a tiny LLM for sentiment analysis](https://github.com/jadenzwicker/DL-Final-Project/tree/main#readme)
 
-<a href="https://github.com/brieucpopper/3dtetris/tree/main#readme" target="_blank">
+<a href="https://github.com/jadenzwicker/DL-Final-Project/tree/main#readme" target="_blank">
   <img src="https://github.com/user-attachments/assets/ea198f14-eee9-4686-926e-ee011ff2784e" width="780">
 </a>
 
