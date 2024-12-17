@@ -1,7 +1,7 @@
 
 <h1 align="left"><b>Hi , I'm Brieuc </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<p><em>Machine Learning Master's student in a dual degree program with <a href="https://www.gatech.edu/">Georgia Tech</a> and <a href="https://www.telecom-sudparis.eu/">Telecom SudParis</a></br>
+<p><em>Recent Master's graduate - specialized in  Machine Learning  - dual degree <a href="https://www.gatech.edu/">Georgia Tech</a> x <a href="https://www.telecom-sudparis.eu/">Telecom SudParis</a></br>
 </em></p>
 
 
