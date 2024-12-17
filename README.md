@@ -19,23 +19,6 @@
   <img src="https://github.com/user-attachments/assets/fcdaf87e-f08d-413b-9f22-4c491f3222da" width="900">
 </a>
 
----
-
-### [Lung Segmentation with U-NET](https://github.com/brieucpopper/lungSegmentationUnet/tree/main#readme)
-*Team project on CNNs @ TSP.*
-
-<a href="https://github.com/brieucpopper/lungSegmentationUnet/tree/main#readme" target="_blank">
-  <img src="https://github.com/brieucpopper/lungSegmentationUnet/blob/main/IMAGE_37.png" width="900">
-</a>
-
----
-
-### [Supervised & Unsupervised Learning on Music Data](https://github.com/brieucpopper/MLanalysis/tree/main#readme)
-*Machine Learning course @ GT.*
-
-<a href="https://github.com/brieucpopper/MLanalysis/tree/main#readme" target="_blank">
-  <img src="https://github.com/brieucpopper/MLanalysis/assets/102361078/2b0973c8-99ba-41f3-8aaf-5f4ea6aa7bcc" width="900">
-</a>
 
 ---
 
@@ -69,6 +52,24 @@
   <img src="https://user-images.githubusercontent.com/102361078/214140378-f29a3ebf-3264-4204-9a20-d3d0d9ec073d.png" width="900">
 </a>
 
+---
+
+
+### [Lung Segmentation with U-NET](https://github.com/brieucpopper/lungSegmentationUnet/tree/main#readme)
+*Team project on CNNs @ TSP.*
+
+<a href="https://github.com/brieucpopper/lungSegmentationUnet/tree/main#readme" target="_blank">
+  <img src="https://github.com/brieucpopper/lungSegmentationUnet/blob/main/IMAGE_37.png" width="900">
+</a>
+
+---
+
+### [Supervised & Unsupervised Learning on Music Data](https://github.com/brieucpopper/MLanalysis/tree/main#readme)
+*Machine Learning course @ GT.*
+
+<a href="https://github.com/brieucpopper/MLanalysis/tree/main#readme" target="_blank">
+  <img src="https://github.com/brieucpopper/MLanalysis/assets/102361078/2b0973c8-99ba-41f3-8aaf-5f4ea6aa7bcc" width="900">
+</a>
 ---
 
 ### [Solving Blackjack and a Video Game with RL](https://github.com/brieucpopper/MDPRL)
