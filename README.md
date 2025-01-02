@@ -1,6 +1,6 @@
 <h1 align="left"><b>Hello, I'm Brieuc</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<p><em>Recent Master's graduate specialized in Machine Learning, studied at <a href="https://www.gatech.edu/" target="_blank">Georgia Tech</a> (MS. Computer Science) and <a href="https://www.telecom-sudparis.eu/" target="_blank">Telecom SudParis</a> (diplôme d'ingénieur) </em></p>
+<p><em>Recent Master's graduate specialized in Machine Learning, studied at <a href="https://www.gatech.edu/" target="_blank">Georgia Tech</a> (MS. Computer Science) and <a href="https://www.telecom-sudparis.eu/" target="_blank">Telecom SudParis</a> (diplôme d'ingénieur) [<a href="https://github.com/user-attachments/files/18168287/CV_Brieuc_POPPER_2024.pdf">My CV</a>]</em></p>
 
 > **How to reach me:** brieucpopper@gmail.com or via <a href="https://www.linkedin.com/in/brieucpopper/" target="_blank">LinkedIn</a>
 
