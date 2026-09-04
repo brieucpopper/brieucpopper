@@ -10,6 +10,15 @@
 
 ---
 
+### [YO-YOLO — Your Own Detector from One Sentence](https://github.com/brieucpopper/yo-yolo)
+*Sep 2026 — Personal project*
+
+<a href="https://github.com/brieucpopper/yo-yolo" target="_blank">
+  <img src="assets/yo-yolo-teacher.png" width="780">
+</a>
+
+---
+
 ### [Multimodal RAG for Video Question Answering](https://github.com/brieucpopper/LLaVA_RAG/tree/master#readme)
 *Oct 2024 — Georgia Tech, CS 8803 VLM*
 
