@@ -10,10 +10,10 @@
 
 ---
 
-### [YO-YOLO — Your Own YOLO Detector with no manual annotations - Agentic Skill.md](https://github.com/brieucpopper/yo-yolo)
+### [YO-YOLO — Your Own YOLO Detector with no manual annotations - Agentic Skill.md](https://github.com/brieucpopper/yo-yolo/tree/master#readme)
 *Jun 2026 — Personal project*
 
-<a href="https://github.com/brieucpopper/yo-yolo" target="_blank">
+<a href="https://github.com/brieucpopper/yo-yolo/tree/master#readme" target="_blank">
   <img src="assets/yo-yolo-teacher.png" width="780">
 </a>
 
