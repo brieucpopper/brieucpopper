@@ -6,7 +6,7 @@
 
 ---
 
-<h3>In addition to my internship as a Computer Vision Engineer at ImVitro (see <a href="https://github.com/user-attachments/files/18168287/CV_Brieuc_POPPER_2024.pdf">My CV</a>), here are some personal and academic projects. Click on the images to learn more.</h3>
+<h3> Here are some personal and academic projects. Click on the images to learn more.</h3>
 
 ---
 
