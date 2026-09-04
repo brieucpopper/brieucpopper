@@ -10,8 +10,8 @@
 
 ---
 
-### [YO-YOLO — Your Own Detector from One Sentence](https://github.com/brieucpopper/yo-yolo)
-*Sep 2026 — Personal project*
+### [YO-YOLO — Your Own YOLO Detector with no manual annotations - Agentic Skill.md](https://github.com/brieucpopper/yo-yolo)
+*Jun 2026 — Personal project*
 
 <a href="https://github.com/brieucpopper/yo-yolo" target="_blank">
   <img src="assets/yo-yolo-teacher.png" width="780">
