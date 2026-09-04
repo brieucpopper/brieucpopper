@@ -19,20 +19,20 @@
 
 ---
 
-### [Fine-tuning a Tiny LLM for Sentiment Analysis](https://github.com/jadenzwicker/DL-Final-Project/tree/main#readme)
-*Sep 2024 — Georgia Tech, CS 7643 Deep Learning*
-
-<a href="https://github.com/jadenzwicker/DL-Final-Project/tree/main#readme" target="_blank">
-  <img src="https://github.com/user-attachments/assets/ea198f14-eee9-4686-926e-ee011ff2784e" width="780">
-</a>
-
----
-
 ### [Lung Segmentation with U-Net](https://github.com/brieucpopper/lungSegmentationUnet/tree/main#readme)
 *Nov 2023 — Team project @ Telecom SudParis*
 
 <a href="https://github.com/brieucpopper/lungSegmentationUnet/tree/main#readme" target="_blank">
   <img src="https://github.com/brieucpopper/lungSegmentationUnet/blob/main/IMAGE_37.png" width="780">
+</a>
+
+---
+
+### [A 3D Tetris Game with Manual 2D Rendering](https://github.com/brieucpopper/3dtetris/tree/main#readme)
+*Mar 2022 — Team project @ Telecom SudParis*
+
+<a href="https://github.com/brieucpopper/3dtetris/tree/main#readme" target="_blank">
+  <img src="https://user-images.githubusercontent.com/102361078/214140255-57212023-0a0f-410e-9eb4-4814cc3bce76.png" width="780">
 </a>
 
 ---
@@ -55,18 +55,18 @@
 
 ---
 
-### [A 3D Tetris Game with Manual 2D Rendering](https://github.com/brieucpopper/3dtetris/tree/main#readme)
-*Mar 2022 — Team project @ Telecom SudParis*
-
-<a href="https://github.com/brieucpopper/3dtetris/tree/main#readme" target="_blank">
-  <img src="https://user-images.githubusercontent.com/102361078/214140255-57212023-0a0f-410e-9eb4-4814cc3bce76.png" width="780">
-</a>
-
----
-
 ### [Encoding Drawings with Fourier Coefficients](https://github.com/brieucpopper/TIPE-fourier-bezier/tree/main/projet%20Encodage%20fourier)
 *Mar 2022 — TIPE, CPGE (prépa)*
 
 <a href="https://github.com/brieucpopper/TIPE-fourier-bezier/tree/main/projet%20Encodage%20fourier" target="_blank">
   <img src="https://user-images.githubusercontent.com/102361078/214140415-aa0524a5-a7a8-4960-b5b6-590e699cbf32.png" width="780">
+</a>
+
+---
+
+### [Fine-tuning a Tiny LLM for Sentiment Analysis](https://github.com/jadenzwicker/DL-Final-Project/tree/main#readme)
+*Sep 2024 — Georgia Tech, CS 7643 Deep Learning*
+
+<a href="https://github.com/jadenzwicker/DL-Final-Project/tree/main#readme" target="_blank">
+  <img src="https://github.com/user-attachments/assets/ea198f14-eee9-4686-926e-ee011ff2784e" width="780">
 </a>
