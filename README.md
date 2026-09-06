@@ -38,7 +38,7 @@
 ---
 
 ### [A 3D Tetris Game with Manual 2D Rendering](https://github.com/brieucpopper/3dtetris/tree/main#readme)
-*Mar 2022 — Team project @ Lycée Pasteur*
+*2020 — Team project @ Lycée Pasteur*
 
 <a href="https://github.com/brieucpopper/3dtetris/tree/main#readme" target="_blank">
   <img src="https://user-images.githubusercontent.com/102361078/214140255-57212023-0a0f-410e-9eb4-4814cc3bce76.png" width="780">
@@ -47,7 +47,7 @@
 ---
 
 ### [A 2v2 Drawing Competition Web Game](https://github.com/brieucpopper/drawhosted/tree/master/Projet%20Final)
-*Apr 2022 — Web programming project @ Telecom SudParis*
+*2022 — Web programming project @ Telecom SudParis*
 
 <a href="https://github.com/brieucpopper/drawhosted/tree/master/Projet%20Final" target="_blank">
   <img src="https://user-images.githubusercontent.com/102361078/214140378-f29a3ebf-3264-4204-9a20-d3d0d9ec073d.png" width="780">
@@ -56,7 +56,7 @@
 ---
 
 ### [A Custom 16-bit Computer Made from Logic Gates](https://github.com/brieucpopper/logismcomputer)
-*Apr 2022 — Personal project (nand2tetris-inspired)*
+*2022 — Personal project (nand2tetris-inspired)*
 
 <a href="https://github.com/brieucpopper/logismcomputer" target="_blank">
   <img src="https://user-images.githubusercontent.com/102361078/214144627-a8cc2bd5-e94a-4bcf-8827-ac61a8167424.png" width="780">
@@ -65,7 +65,7 @@
 ---
 
 ### [Encoding Drawings with Fourier Coefficients](https://github.com/brieucpopper/TIPE-fourier-bezier/tree/main/projet%20Encodage%20fourier)
-*Mar 2022 — TIPE, CPGE (prépa)*
+*2021 — TIPE, CPGE (prépa)*
 
 <a href="https://github.com/brieucpopper/TIPE-fourier-bezier/tree/main/projet%20Encodage%20fourier" target="_blank">
   <img src="https://user-images.githubusercontent.com/102361078/214140415-aa0524a5-a7a8-4960-b5b6-590e699cbf32.png" width="780">
@@ -74,7 +74,7 @@
 ---
 
 ### [Fine-tuning a Tiny LLM for Sentiment Analysis](https://github.com/jadenzwicker/DL-Final-Project/tree/main#readme)
-*Sep 2024 — Georgia Tech, CS 7643 Deep Learning*
+*2024 — Georgia Tech, CS 7643 Deep Learning*
 
 <a href="https://github.com/jadenzwicker/DL-Final-Project/tree/main#readme" target="_blank">
   <img src="https://github.com/user-attachments/assets/ea198f14-eee9-4686-926e-ee011ff2784e" width="780">
