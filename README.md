@@ -38,7 +38,7 @@
 ---
 
 ### [A 3D Tetris Game with Manual 2D Rendering](https://github.com/brieucpopper/3dtetris/tree/main#readme)
-*Mar 2022 — Team project @ Telecom SudParis*
+*Mar 2022 — Team project @ Lycée Pasteur*
 
 <a href="https://github.com/brieucpopper/3dtetris/tree/main#readme" target="_blank">
   <img src="https://user-images.githubusercontent.com/102361078/214140255-57212023-0a0f-410e-9eb4-4814cc3bce76.png" width="780">
