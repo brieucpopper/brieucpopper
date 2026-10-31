@@ -2,7 +2,7 @@
 
 <p><em>Machine Learning / AI enthusiast, studied at <a href="https://www.gatech.edu/" target="_blank">Georgia Tech</a> (MS Computer Science) and <a href="https://www.telecom-sudparis.eu/" target="_blank">Telecom SudParis</a> (diplôme d'ingénieur)</em></p>
 
-> **How to reach me:** brieucpopper@gmail.com or via <a href="https://www.linkedin.com/in/brieucpopper/" target="_blank">LinkedIn</a>
+> **How to reach me:**  <a href="https://www.linkedin.com/in/brieucpopper/" target="_blank">LinkedIn</a>
 
 ---
 
